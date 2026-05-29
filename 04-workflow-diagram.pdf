@@ -1,0 +1,60 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 964 >>
+stream
+BT
+/F1 12 Tf
+50 750 Td
+(Current-State Workflow - VinFast Long-Distance Route Planning) Tj
+0 -28 Td
+(1. Check battery percent on car/app - 1 min) Tj
+0 -22 Td
+(   Handoff: vehicle/app to driver) Tj
+0 -28 Td
+(2. Enter destination in map app - 2 to 3 min) Tj
+0 -22 Td
+(   Handoff: map app to driver) Tj
+0 -28 Td
+(3. Find VinFast charging stations on or near route - 5 to 10 min) Tj
+0 -22 Td
+(   BOTTLENECK: driver manually filters station options) Tj
+0 -28 Td
+(4. Estimate whether battery can reach station/destination - 3 to 5 min) Tj
+0 -28 Td
+(5. Choose charging stop by distance, location, convenience - 5 min) Tj
+0 -28 Td
+(6. Calculate charging duration and continue-time - 5 to 10 min) Tj
+0 -22 Td
+(   BOTTLENECK: manual calculation, missing safety buffer risk) Tj
+0 -28 Td
+(7. Re-check and adjust if battery/traffic/station condition changes) Tj
+0 -36 Td
+(Total: 20 to 30 minutes before trip. Main bottlenecks: steps 3 and 6.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f
+0000000009 00000 n
+0000000058 00000 n
+0000000115 00000 n
+0000000241 00000 n
+0000001255 00000 n
+trailer
+<< /Root 1 0 R /Size 6 >>
+startxref
+1325
+%%EOF
